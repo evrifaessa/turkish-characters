@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "Evrifaessa (Yağızhan Yakar)"
+  },
+  "bugs": {
+    "url": "https://github.com/evrifaessa/turkish-characters/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Escape Turkish characters by replacing them with their English equivalent.",
+  "homepage": "https://github.com/evrifaessa/turkish-characters#readme",
+  "keywords": [
+    "turkish",
+    "converter"
+  ],
+  "main": "index.js",
+  "name": "turkish-characters",
+  "repository": {
+    "type": "git",
+    "url": "git+Escape Turkish characters by replacing them with their English equivalent."
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.4"
+}
